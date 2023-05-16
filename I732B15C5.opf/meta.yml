@@ -1,0 +1,18 @@
+id: I732B15C5
+default_language: en
+source: https://www.lotsawahouse.org
+initial_creation_type: web_scrap
+imported: 2023-01-04 11:32:26.767633
+last_modified: 2023-01-04 11:32:26.767639
+source_metadata:
+  collections:
+  - Chokgyur Dechen Lingpa
+  - Works of Tibetan Masters
+bases:
+  A0A7:
+    title: The Confession of Downfalls from the Great Compassionate One’s Lotus Uṣṇīṣa
+    base_file: A0A7.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
